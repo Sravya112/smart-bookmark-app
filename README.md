@@ -37,7 +37,7 @@ App failed after deployment.
 Solved by adding Supabase keys in Vercel environment variables.
 
 ## Live Demo
-(Will add after deployment)
+https://smart-bookmark-app-seven-bice.vercel.app
 
 ## Author
 Sravya Ayyalasomayajula
